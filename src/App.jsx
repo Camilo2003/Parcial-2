@@ -25,7 +25,7 @@ function PortafolioPersonal() {
     <li><a href="https://github.com/Camilo2003/Tarea1web/blob/main/index.html">Ejercicio 2</a></li>
     <li><a href="https://github.com/Camilo2003/Tarea2web/blob/main/Tarea-2-web">Ejercicio 3</a></li>
     <li><a href="https://github.com/Camilo2003/javascript-2-martes.git">Números iguales y cuál es mayor</a></li>
-    <li><a href="link-a-mi-ejercicio-de-cards">Cards</a></li>
+    <li><a href="https://github.com/Camilo2003/Clase-10.git">Cards</a></li>
   </ul>
 </section>
 
